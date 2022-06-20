@@ -58,7 +58,7 @@ overflow: hidden;
     background: #40ff2f;
     color: #fff;
     font-size: 17px;
-    margin-left: -35px;
+    margin-left: -30px;
 } 
 .button_next:hover{ 
   transform: scale(1.1);
@@ -77,6 +77,7 @@ overflow: hidden;
   transition: .5s;
   height: 34px; 
   text-align: center;
+  background: #fff;
 }
 .input_lobby:hover{ 
     cursor: pointer;
